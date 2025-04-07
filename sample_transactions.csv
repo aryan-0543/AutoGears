@@ -1,0 +1,501 @@
+Date,Description,Amount,Category
+2023-01-05,Yoga Class,13486.8,Health
+2023-11-19,Ajio Shoes,14809.39,Shopping
+2023-02-16,Train Ticket IRCTC,13834.82,Travel
+2023-05-03,Water Bill,14431.69,Utilities
+2023-02-11,PVR Cinemas,9541.67,Entertainment
+2023-05-27,Ola Cab,3147.26,Transport
+2023-02-24,SIP Mutual Fund,454.22,Investment
+2023-11-28,Monthly Rent Payment,3726.13,Rent
+2023-01-17,Ola Cab,8206.58,Transport
+2023-04-26,Flipkart Electronics,7193.26,Shopping
+2023-09-13,Apollo Pharmacy,14291.04,Medical
+2023-07-26,Yoga Class,13402.65,Health
+2023-11-22,College Fees,4723.39,Education
+2023-11-17,Monthly Rent Payment,6886.12,Rent
+2023-02-07,Starbucks Coffee,11513.5,Food
+2023-05-06,Monthly Salary from Infosys,7076.75,Salary
+2023-01-06,LIC Policy Payment,2458.2,Investment
+2023-11-14,LIC Policy Payment,11659.64,Investment
+2023-01-28,College Fees,13708.01,Education
+2023-03-13,Cult Pass,4978.71,Health
+2023-06-25,Cult Pass,6129.7,Health
+2023-10-28,EMI Payment HDFC,13556.4,Credit Payment
+2023-12-11,SIP Mutual Fund,13706.12,Investment
+2023-01-30,Fuel Station HPCL,11842.84,Transport
+2023-09-04,LIC Policy Payment,11230.85,Investment
+2023-10-24,Electricity Bill,2578.06,Utilities
+2023-07-07,Monthly Rent Payment,7534.84,Rent
+2023-10-15,Myntra Clothing,2619.04,Shopping
+2023-12-20,Cult Pass,2350.68,Health
+2023-10-22,McDonald's,6690.27,Food
+2023-05-28,Udemy Course,11535.58,Education
+2023-08-08,Uber Ride,10248.64,Transport
+2023-06-05,Reliance Fresh,4461.04,Groceries
+2023-10-05,Swiggy Lunch,5769.55,Food
+2023-12-16,Flight to Delhi,11509.06,Travel
+2023-10-31,Credit Card Bill Payment,4229.95,Credit Payment
+2023-12-31,Doctor Consultation,12845.51,Medical
+2023-09-22,Groww Investment,13464.57,Investment
+2023-12-03,Dominos Pizza,6443.34,Food
+2023-05-29,Metro Card Recharge,6332.65,Transport
+2023-10-06,Apollo Pharmacy,8195.18,Medical
+2023-10-31,Water Bill,6000.52,Utilities
+2023-06-29,YouTube Premium,7009.88,Subscription
+2023-06-18,Flight to Delhi,7835.81,Travel
+2023-10-18,Airtel Broadband,9172.09,Utilities
+2023-11-15,Netflix Pvt Ltd Billing,14635.36,Subscription
+2023-02-21,BookMyShow Movie,9657.38,Entertainment
+2023-05-31,Monthly Salary from Infosys,9184.44,Salary
+2023-06-04,Stocks via Zerodha,5360.99,Investment
+2023-12-14,Monthly Salary from Infosys,14931.32,Salary
+2023-01-16,Flipkart Electronics,475.4,Shopping
+2023-03-23,Ajio Shoes,3047.23,Shopping
+2023-09-15,Mobile Recharge,10790.39,Utilities
+2023-03-06,Groww Investment,4475.03,Investment
+2023-09-06,Doctor Consultation,12713.63,Medical
+2023-04-11,Credit Card Bill Payment,14028.98,Credit Payment
+2023-12-25,Yoga Class,4240.77,Health
+2023-05-09,D-Mart Purchase,11949.66,Groceries
+2023-10-23,Flight to Delhi,10434.79,Travel
+2023-11-24,Fuel Station HPCL,3910.07,Transport
+2023-01-18,Airtel Broadband,14623.73,Utilities
+2023-11-28,Flipkart Electronics,5264.56,Shopping
+2023-10-23,Monthly Salary from Infosys,8556.55,Salary
+2023-09-16,Flipkart Electronics,6385.87,Shopping
+2023-12-12,Bus to Bangalore,4218.58,Travel
+2023-12-08,Salary Credited from TCS,11028.2,Salary
+2023-06-10,Zomato Order,6143.89,Food
+2023-10-01,Salary Credited from TCS,14728.4,Salary
+2023-10-24,McDonald's,4648.6,Food
+2023-11-09,Electricity Bill,1249.59,Utilities
+2023-06-16,McDonald's,621.94,Food
+2023-05-27,BookMyShow Movie,14407.96,Entertainment
+2023-11-24,Monthly Rent Payment,6229.04,Rent
+2023-12-05,D-Mart Purchase,14021.71,Groceries
+2023-05-02,Train Ticket IRCTC,1176.55,Travel
+2023-08-15,Netflix Pvt Ltd Billing,13617.87,Subscription
+2023-11-26,Credit Card Bill Payment,9861.27,Credit Payment
+2023-09-21,Starbucks Coffee,6070.46,Food
+2023-09-02,Credit Card Bill Payment,4473.06,Credit Payment
+2023-01-05,Hotstar Annual Plan,11872.68,Subscription
+2023-03-31,Monthly Rent Payment,14170.87,Rent
+2023-06-18,Ajio Shoes,9301.48,Shopping
+2023-11-06,Monthly Rent Payment,14270.8,Rent
+2023-04-28,Zomato Order,7279.76,Food
+2023-07-14,EMI Payment HDFC,12524.3,Credit Payment
+2023-02-20,Airtel Broadband,13155.5,Utilities
+2023-09-06,Monthly Rent Payment,4998.73,Rent
+2023-11-15,SIP Mutual Fund,12234.51,Investment
+2023-04-10,Ajio Shoes,12503.14,Shopping
+2023-10-31,BookMyShow Movie,5776.13,Entertainment
+2023-02-27,Salary Credited from TCS,10478.77,Salary
+2023-01-31,Cult Pass,3581.03,Health
+2023-12-29,Salary Credited from TCS,1381.32,Salary
+2023-01-29,YouTube Premium,12586.53,Subscription
+2023-01-06,Monthly Rent Payment,5146.23,Rent
+2023-09-11,Bus to Bangalore,7760.34,Travel
+2023-02-24,YouTube Premium,10685.95,Subscription
+2023-07-18,More Supermarket,14043.64,Groceries
+2023-03-21,PVR Cinemas,5718.89,Entertainment
+2023-08-11,EMI Payment HDFC,6095.19,Credit Payment
+2023-07-26,Monthly Rent Payment,3205.39,Rent
+2024-01-01,Swiggy Lunch,8944.77,Food
+2023-08-06,Medplus Medicines,11650.9,Medical
+2023-10-16,YouTube Premium,13522.58,Subscription
+2023-09-14,Amazon Order,399.94,Shopping
+2023-08-02,Credit Card Bill Payment,8829.71,Credit Payment
+2023-12-25,Medplus Medicines,9745.84,Medical
+2023-12-30,Salary Credited from TCS,4333.82,Salary
+2023-10-26,Stocks via Zerodha,6591.53,Investment
+2023-01-10,Hotstar Annual Plan,4244.92,Subscription
+2023-03-11,Gym Membership,2164.81,Health
+2023-11-17,Big Bazaar Groceries,10686.76,Groceries
+2023-04-30,BookMyShow Movie,2815.64,Entertainment
+2023-10-14,Myntra Clothing,13702.09,Shopping
+2023-02-16,Groww Investment,3140.61,Investment
+2023-06-04,Ola Cab,14201.62,Transport
+2023-08-31,Water Bill,7523.72,Utilities
+2023-01-18,Medplus Medicines,409.02,Medical
+2023-09-24,Mobile Recharge,7090.58,Utilities
+2023-10-19,Monthly Rent Payment,14113.12,Rent
+2023-03-23,Dominos Pizza,12078.83,Food
+2023-07-11,Amazon Order,6767.95,Shopping
+2023-11-27,BookMyShow Movie,5698.41,Entertainment
+2023-01-29,Myntra Clothing,7165.14,Shopping
+2023-02-08,LIC Policy Payment,14423.93,Investment
+2023-06-29,Spotify Monthly Fee,871.84,Subscription
+2023-06-14,Salary Credited from TCS,1236.54,Salary
+2023-02-12,Doctor Consultation,8132.28,Medical
+2023-08-27,Spotify Monthly Fee,4878.95,Subscription
+2023-10-01,D-Mart Purchase,9501.58,Groceries
+2023-01-30,Flipkart Electronics,10847.14,Shopping
+2023-02-12,Reliance Fresh,9027.09,Groceries
+2023-03-02,Netflix Pvt Ltd Billing,3863.98,Subscription
+2023-12-27,Myntra Clothing,14744.3,Shopping
+2023-02-02,BookMyShow Movie,12377.8,Entertainment
+2023-11-24,Apollo Pharmacy,3231.01,Medical
+2023-07-22,Monthly Salary from Infosys,5158.14,Salary
+2023-04-09,Theme Park Entry,6423.54,Entertainment
+2023-10-11,Swiggy Lunch,2716.7,Food
+2023-06-06,PVR Cinemas,5250.6,Entertainment
+2023-06-19,Theme Park Entry,2218.9,Entertainment
+2023-04-04,Metro Card Recharge,11483.72,Transport
+2023-12-14,Doctor Consultation,6351.54,Medical
+2023-09-04,Metro Card Recharge,8604.37,Transport
+2023-03-16,Swiggy Lunch,9423.91,Food
+2023-12-28,Zomato Order,6936.6,Food
+2023-04-04,Stocks via Zerodha,13824.94,Investment
+2023-11-02,Coursera Subscription,14919.49,Education
+2023-04-14,Big Bazaar Groceries,5592.69,Groceries
+2023-05-23,Big Bazaar Groceries,11320.14,Groceries
+2023-09-14,Cult Pass,8011.87,Health
+2023-07-20,Apollo Pharmacy,7120.63,Medical
+2023-01-08,Cult Pass,8072.7,Health
+2023-11-19,Monthly Rent Payment,1434.98,Rent
+2023-12-30,Ola Cab,990.9,Transport
+2023-09-02,Airtel Broadband,3122.0,Utilities
+2023-09-20,Starbucks Coffee,5488.77,Food
+2023-11-06,Big Bazaar Groceries,10636.05,Groceries
+2023-06-18,Gym Membership,6251.58,Health
+2023-08-02,Salary Credited from TCS,13201.93,Salary
+2023-11-25,Monthly Rent Payment,7122.75,Rent
+2023-09-06,McDonald's,14242.12,Food
+2023-12-18,SIP Mutual Fund,13188.17,Investment
+2023-10-15,Flight to Delhi,8527.88,Travel
+2024-01-01,Flight to Delhi,5694.31,Travel
+2023-10-31,Fuel Station HPCL,13057.77,Transport
+2023-06-28,Stocks via Zerodha,5574.09,Investment
+2023-06-24,Ajio Shoes,3117.11,Shopping
+2023-11-14,Monthly Rent Payment,12710.54,Rent
+2023-04-22,Theme Park Entry,11603.06,Entertainment
+2023-01-23,Coursera Subscription,2022.34,Education
+2023-10-11,D-Mart Purchase,6515.32,Groceries
+2023-11-12,Monthly Rent Payment,8737.73,Rent
+2023-07-04,Monthly Salary from Infosys,8330.91,Salary
+2023-08-22,Swiggy Lunch,13533.38,Food
+2023-09-28,Starbucks Coffee,6173.73,Food
+2023-02-02,Train Ticket IRCTC,14359.31,Travel
+2023-03-16,Flipkart Electronics,1959.51,Shopping
+2023-09-26,More Supermarket,6073.15,Groceries
+2023-06-19,Theme Park Entry,9187.85,Entertainment
+2023-08-09,Hotstar Annual Plan,4946.51,Subscription
+2023-04-13,Myntra Clothing,12371.84,Shopping
+2023-04-11,Starbucks Coffee,10089.0,Food
+2023-01-03,Big Bazaar Groceries,5195.29,Groceries
+2023-07-17,Water Bill,3095.4,Utilities
+2023-03-07,More Supermarket,5538.4,Groceries
+2023-05-29,Amazon Order,7556.27,Shopping
+2023-01-26,Yoga Class,660.35,Health
+2023-07-11,BookMyShow Movie,12479.79,Entertainment
+2023-08-03,EMI Payment HDFC,1890.32,Credit Payment
+2023-11-14,Reliance Fresh,11632.74,Groceries
+2023-12-24,SIP Mutual Fund,12039.24,Investment
+2023-08-17,Train Ticket IRCTC,12907.66,Travel
+2023-04-16,College Fees,14421.45,Education
+2023-11-29,PVR Cinemas,9672.23,Entertainment
+2023-06-22,LIC Policy Payment,5551.34,Investment
+2023-05-27,Bus to Bangalore,9517.85,Travel
+2023-11-15,SIP Mutual Fund,7404.96,Investment
+2023-09-29,Coursera Subscription,14835.48,Education
+2023-03-28,Doctor Consultation,11007.28,Medical
+2023-04-02,Electricity Bill,3065.62,Utilities
+2023-12-10,College Fees,13739.03,Education
+2023-06-09,Metro Card Recharge,369.49,Transport
+2023-05-14,Theme Park Entry,4184.77,Entertainment
+2023-09-15,Flight to Delhi,10102.86,Travel
+2023-05-13,Doctor Consultation,1319.59,Medical
+2023-08-28,Metro Card Recharge,812.63,Transport
+2023-11-20,Coursera Subscription,1301.52,Education
+2023-03-01,Gym Membership,4583.35,Health
+2023-02-11,Metro Card Recharge,10221.65,Transport
+2023-01-26,Train Ticket IRCTC,6988.6,Travel
+2023-11-08,Coursera Subscription,4947.75,Education
+2023-05-16,Uber Ride,12220.99,Transport
+2023-11-06,Monthly Rent Payment,8989.77,Rent
+2023-07-18,PVR Cinemas,10517.95,Entertainment
+2023-08-19,Monthly Rent Payment,13118.79,Rent
+2023-02-19,Coursera Subscription,12678.44,Education
+2023-04-24,Medplus Medicines,14030.66,Medical
+2023-02-27,PVR Cinemas,6484.44,Entertainment
+2023-10-10,College Fees,8150.07,Education
+2023-06-17,Stocks via Zerodha,1955.7,Investment
+2023-01-03,Hotstar Annual Plan,10753.53,Subscription
+2023-11-11,Water Bill,12882.88,Utilities
+2023-08-05,Myntra Clothing,5722.33,Shopping
+2023-03-02,Monthly Rent Payment,11614.05,Rent
+2023-05-15,Monthly Rent Payment,11646.92,Rent
+2023-03-16,BookMyShow Movie,10628.52,Entertainment
+2023-04-12,Ajio Shoes,9758.61,Shopping
+2023-02-05,Credit Card Bill Payment,3861.01,Credit Payment
+2023-06-23,Metro Card Recharge,3042.52,Transport
+2023-02-25,Reliance Fresh,9430.5,Groceries
+2023-12-15,Myntra Clothing,7611.88,Shopping
+2023-02-03,Flight to Delhi,3568.71,Travel
+2023-06-29,Swiggy Lunch,6196.15,Food
+2023-05-02,Stocks via Zerodha,11609.52,Investment
+2023-06-08,Gym Membership,2318.83,Health
+2023-12-08,Salary Credited from TCS,9824.91,Salary
+2023-12-26,Flipkart Electronics,6843.63,Shopping
+2023-12-31,Zomato Order,4989.14,Food
+2023-01-29,Gym Membership,11644.76,Health
+2023-08-24,Udemy Course,1914.98,Education
+2023-02-27,Apollo Pharmacy,3014.62,Medical
+2023-01-05,Hotstar Annual Plan,5470.22,Subscription
+2023-03-15,Amazon Order,6093.97,Shopping
+2023-10-31,McDonald's,3045.89,Food
+2023-01-24,Apollo Pharmacy,2197.48,Medical
+2023-12-27,Theme Park Entry,1254.3,Entertainment
+2023-05-10,Medplus Medicines,8395.19,Medical
+2023-01-10,Myntra Clothing,10552.29,Shopping
+2023-02-20,Water Bill,2077.17,Utilities
+2023-04-26,Big Bazaar Groceries,5387.58,Groceries
+2023-12-30,Bus to Bangalore,5291.3,Travel
+2023-09-14,Starbucks Coffee,10996.92,Food
+2023-10-12,Monthly Salary from Infosys,10366.33,Salary
+2023-09-06,Water Bill,13160.19,Utilities
+2023-02-18,Myntra Clothing,6648.76,Shopping
+2023-10-22,Train Ticket IRCTC,14917.77,Travel
+2023-06-06,Yoga Class,3373.64,Health
+2023-07-29,Groww Investment,13263.95,Investment
+2023-08-02,Monthly Rent Payment,4966.16,Rent
+2023-02-15,Bus to Bangalore,8578.25,Travel
+2023-02-03,YouTube Premium,14613.2,Subscription
+2023-01-03,Train Ticket IRCTC,6262.27,Travel
+2023-03-04,Ola Cab,1655.08,Transport
+2023-12-12,Monthly Salary from Infosys,12167.9,Salary
+2023-11-23,Flipkart Electronics,7097.43,Shopping
+2023-06-10,Apollo Pharmacy,13086.43,Medical
+2023-07-04,Ola Cab,9803.2,Transport
+2023-08-01,Fuel Station HPCL,14716.57,Transport
+2023-01-29,BookMyShow Movie,8206.4,Entertainment
+2023-02-21,Coursera Subscription,7704.67,Education
+2023-05-30,Stocks via Zerodha,9138.92,Investment
+2023-05-14,Stocks via Zerodha,4656.33,Investment
+2023-03-27,Reliance Fresh,5759.44,Groceries
+2023-02-16,SIP Mutual Fund,3527.25,Investment
+2023-01-15,Gym Membership,12108.85,Health
+2023-05-19,Metro Card Recharge,8464.79,Transport
+2023-05-18,BookMyShow Movie,5784.23,Entertainment
+2023-05-25,Netflix Pvt Ltd Billing,7621.57,Subscription
+2023-05-15,Credit Card Bill Payment,6437.58,Credit Payment
+2023-04-22,Spotify Monthly Fee,331.04,Subscription
+2023-01-17,LIC Policy Payment,5741.58,Investment
+2023-04-03,EMI Payment HDFC,8293.68,Credit Payment
+2023-10-13,EMI Payment HDFC,1266.33,Credit Payment
+2023-10-09,Monthly Salary from Infosys,14595.75,Salary
+2023-05-24,Flipkart Electronics,3199.03,Shopping
+2023-06-21,Cult Pass,8863.41,Health
+2023-08-09,Ola Cab,11687.65,Transport
+2023-09-19,Credit Card Bill Payment,7836.74,Credit Payment
+2023-06-03,Train Ticket IRCTC,4211.05,Travel
+2023-02-28,College Fees,5173.89,Education
+2023-06-20,Hotstar Annual Plan,11678.83,Subscription
+2023-10-14,Cult Pass,14236.8,Health
+2023-12-26,Airtel Broadband,6009.84,Utilities
+2023-04-25,Netflix Pvt Ltd Billing,14917.75,Subscription
+2023-04-18,BookMyShow Movie,12322.29,Entertainment
+2023-07-03,Udemy Course,326.72,Education
+2023-07-06,Monthly Rent Payment,3285.0,Rent
+2023-04-22,Coursera Subscription,11035.06,Education
+2023-06-28,Amazon Order,525.19,Shopping
+2023-12-18,Monthly Rent Payment,11379.42,Rent
+2023-11-03,Mobile Recharge,5654.86,Utilities
+2023-03-18,Netflix Pvt Ltd Billing,11441.62,Subscription
+2023-10-15,Flight to Delhi,185.7,Travel
+2023-04-18,Amazon Order,8894.01,Shopping
+2023-12-07,EMI Payment HDFC,3055.49,Credit Payment
+2023-08-18,Theme Park Entry,9628.13,Entertainment
+2023-07-13,Yoga Class,4876.08,Health
+2023-10-10,Swiggy Lunch,7752.39,Food
+2023-01-09,Electricity Bill,6509.74,Utilities
+2023-12-05,Big Bazaar Groceries,7706.87,Groceries
+2023-07-27,Mobile Recharge,4044.98,Utilities
+2023-01-16,More Supermarket,11302.11,Groceries
+2023-01-14,PVR Cinemas,9808.03,Entertainment
+2023-12-06,BookMyShow Movie,6930.97,Entertainment
+2023-06-23,Dominos Pizza,14529.24,Food
+2023-10-08,Monthly Salary from Infosys,3175.93,Salary
+2023-11-22,College Fees,10118.33,Education
+2023-10-24,PVR Cinemas,2373.73,Entertainment
+2023-07-15,Amazon Order,7167.83,Shopping
+2023-07-10,Starbucks Coffee,7602.6,Food
+2023-12-25,SIP Mutual Fund,3747.1,Investment
+2023-11-22,Monthly Rent Payment,520.02,Rent
+2023-05-24,BookMyShow Movie,7329.11,Entertainment
+2023-06-28,Monthly Rent Payment,3777.1,Rent
+2023-03-01,PVR Cinemas,10958.18,Entertainment
+2023-05-20,Coursera Subscription,12147.68,Education
+2023-04-17,Groww Investment,214.86,Investment
+2023-11-23,Gym Membership,1318.82,Health
+2023-01-31,Salary Credited from TCS,4647.84,Salary
+2023-11-28,Monthly Salary from Infosys,5100.27,Salary
+2023-10-25,Theme Park Entry,5910.52,Entertainment
+2023-10-25,Theme Park Entry,3247.83,Entertainment
+2023-01-05,Stocks via Zerodha,6066.55,Investment
+2023-02-28,Train Ticket IRCTC,13697.35,Travel
+2023-03-02,Netflix Pvt Ltd Billing,564.53,Subscription
+2023-02-25,Hotstar Annual Plan,11826.81,Subscription
+2023-10-27,Cult Pass,10445.84,Health
+2023-07-22,Monthly Salary from Infosys,10178.38,Salary
+2023-11-20,Monthly Rent Payment,7627.7,Rent
+2023-09-12,Groww Investment,11374.21,Investment
+2023-03-28,Apollo Pharmacy,14506.07,Medical
+2023-01-09,Ajio Shoes,10851.84,Shopping
+2023-05-02,Monthly Salary from Infosys,8591.08,Salary
+2023-07-28,McDonald's,13791.39,Food
+2023-08-05,Cult Pass,6863.75,Health
+2023-06-27,LIC Policy Payment,7951.83,Investment
+2023-06-14,Amazon Order,11304.25,Shopping
+2023-08-22,Stocks via Zerodha,11774.25,Investment
+2023-04-14,Credit Card Bill Payment,9584.63,Credit Payment
+2023-07-10,Credit Card Bill Payment,1930.16,Credit Payment
+2023-07-19,Coursera Subscription,13699.39,Education
+2023-03-25,Doctor Consultation,8501.91,Medical
+2023-06-28,Salary Credited from TCS,1449.6,Salary
+2023-11-24,Airtel Broadband,12603.57,Utilities
+2023-02-28,Groww Investment,6640.59,Investment
+2023-10-13,Credit Card Bill Payment,8599.16,Credit Payment
+2023-01-15,Starbucks Coffee,6580.87,Food
+2023-12-09,Uber Ride,4671.92,Transport
+2023-07-21,Medplus Medicines,7995.67,Medical
+2023-07-08,Electricity Bill,12562.83,Utilities
+2023-05-23,Water Bill,8810.31,Utilities
+2023-01-30,Salary Credited from TCS,3180.68,Salary
+2023-01-12,Monthly Rent Payment,7540.3,Rent
+2024-01-01,Reliance Fresh,13392.61,Groceries
+2023-05-14,Mobile Recharge,13836.79,Utilities
+2023-04-27,College Fees,7833.64,Education
+2023-05-10,Stocks via Zerodha,13310.13,Investment
+2023-03-29,Swiggy Lunch,3103.95,Food
+2023-10-19,Hotstar Annual Plan,3913.18,Subscription
+2023-08-23,Monthly Salary from Infosys,1110.84,Salary
+2023-04-10,Airtel Broadband,3142.68,Utilities
+2023-06-28,More Supermarket,6094.6,Groceries
+2023-07-18,Monthly Rent Payment,11548.28,Rent
+2023-07-10,PVR Cinemas,4195.45,Entertainment
+2023-10-02,Yoga Class,5091.41,Health
+2023-08-08,Netflix Pvt Ltd Billing,13706.71,Subscription
+2023-12-02,Hotstar Annual Plan,7346.71,Subscription
+2023-09-21,Monthly Rent Payment,7580.82,Rent
+2023-06-22,EMI Payment HDFC,8550.57,Credit Payment
+2023-05-08,Amazon Order,2711.14,Shopping
+2023-07-06,Fuel Station HPCL,7985.15,Transport
+2023-06-24,Monthly Salary from Infosys,9877.03,Salary
+2023-08-19,Netflix Pvt Ltd Billing,14153.8,Subscription
+2023-07-04,Spotify Monthly Fee,7767.55,Subscription
+2023-01-09,Myntra Clothing,4600.39,Shopping
+2023-08-01,McDonald's,7176.17,Food
+2023-05-03,McDonald's,11682.68,Food
+2023-01-14,Starbucks Coffee,2052.26,Food
+2023-05-03,Stocks via Zerodha,14204.54,Investment
+2023-04-11,Electricity Bill,10090.85,Utilities
+2023-01-16,Monthly Salary from Infosys,4997.13,Salary
+2023-11-14,Coursera Subscription,7146.86,Education
+2023-11-09,Hotstar Annual Plan,1277.32,Subscription
+2023-12-24,Bus to Bangalore,6652.18,Travel
+2023-09-27,Spotify Monthly Fee,7650.54,Subscription
+2023-10-25,Amazon Order,14023.85,Shopping
+2023-05-09,Netflix Pvt Ltd Billing,6072.3,Subscription
+2023-12-18,Monthly Rent Payment,3702.51,Rent
+2023-05-27,Flipkart Electronics,4737.33,Shopping
+2023-11-14,EMI Payment HDFC,8686.79,Credit Payment
+2023-01-01,Groww Investment,14083.71,Investment
+2023-09-02,Spotify Monthly Fee,10486.07,Subscription
+2023-06-24,D-Mart Purchase,12664.85,Groceries
+2023-06-23,Monthly Salary from Infosys,13786.87,Salary
+2023-05-12,SIP Mutual Fund,2880.88,Investment
+2023-04-12,Gym Membership,6365.84,Health
+2023-07-24,Metro Card Recharge,9069.29,Transport
+2023-11-16,College Fees,9573.03,Education
+2023-03-29,Airtel Broadband,13287.95,Utilities
+2023-01-16,Ola Cab,2595.87,Transport
+2023-07-28,Udemy Course,4975.44,Education
+2023-06-06,Monthly Rent Payment,10963.77,Rent
+2023-06-26,BookMyShow Movie,3678.88,Entertainment
+2023-06-20,Electricity Bill,9139.6,Utilities
+2023-11-03,Apollo Pharmacy,1707.66,Medical
+2023-08-17,Credit Card Bill Payment,12723.2,Credit Payment
+2023-07-20,Reliance Fresh,9170.65,Groceries
+2023-10-22,Myntra Clothing,12489.68,Shopping
+2023-09-23,Metro Card Recharge,12000.57,Transport
+2023-10-13,Monthly Rent Payment,7579.94,Rent
+2023-03-10,Credit Card Bill Payment,12868.03,Credit Payment
+2023-08-06,Fuel Station HPCL,2323.81,Transport
+2023-02-16,Flipkart Electronics,5772.46,Shopping
+2023-08-15,Dominos Pizza,4358.07,Food
+2023-10-20,Water Bill,9347.19,Utilities
+2023-10-19,Salary Credited from TCS,12514.1,Salary
+2023-12-13,Electricity Bill,2825.67,Utilities
+2023-11-09,Ola Cab,6200.83,Transport
+2023-04-23,Monthly Rent Payment,3391.91,Rent
+2023-02-08,Gym Membership,9465.06,Health
+2023-05-14,Uber Ride,747.11,Transport
+2023-03-21,Dominos Pizza,9132.37,Food
+2023-10-02,Theme Park Entry,10316.17,Entertainment
+2023-06-04,Netflix Pvt Ltd Billing,9620.5,Subscription
+2023-07-26,Credit Card Bill Payment,7700.64,Credit Payment
+2023-03-04,College Fees,1033.29,Education
+2023-01-06,Bus to Bangalore,12514.01,Travel
+2023-06-30,EMI Payment HDFC,6051.29,Credit Payment
+2023-02-05,Ola Cab,6270.57,Transport
+2023-07-05,McDonald's,749.62,Food
+2023-05-29,Theme Park Entry,1617.52,Entertainment
+2023-11-21,Myntra Clothing,4767.99,Shopping
+2023-04-28,Flight to Delhi,1815.89,Travel
+2023-08-10,McDonald's,12093.12,Food
+2023-07-22,Fuel Station HPCL,9185.17,Transport
+2023-01-08,Zomato Order,11845.58,Food
+2023-01-14,Flight to Delhi,10959.05,Travel
+2023-06-19,Credit Card Bill Payment,2079.83,Credit Payment
+2023-07-14,Credit Card Bill Payment,5363.93,Credit Payment
+2023-09-24,SIP Mutual Fund,8634.78,Investment
+2023-12-22,More Supermarket,13989.0,Groceries
+2023-09-22,Monthly Rent Payment,179.72,Rent
+2023-10-10,Mobile Recharge,4552.79,Utilities
+2023-08-24,College Fees,12759.01,Education
+2023-07-02,EMI Payment HDFC,14224.37,Credit Payment
+2023-10-01,Mobile Recharge,13390.83,Utilities
+2023-09-15,Ajio Shoes,1743.37,Shopping
+2023-09-05,BookMyShow Movie,4751.81,Entertainment
+2023-02-24,Reliance Fresh,13406.93,Groceries
+2023-08-24,Apollo Pharmacy,365.2,Medical
+2023-05-04,Gym Membership,14480.71,Health
+2023-08-12,Salary Credited from TCS,12879.13,Salary
+2023-09-12,Theme Park Entry,5608.79,Entertainment
+2023-07-29,Fuel Station HPCL,592.71,Transport
+2023-12-07,Gym Membership,14688.83,Health
+2023-07-12,More Supermarket,13733.32,Groceries
+2023-09-17,Fuel Station HPCL,649.36,Transport
+2023-02-09,EMI Payment HDFC,10522.4,Credit Payment
+2023-11-07,Metro Card Recharge,14033.8,Transport
+2023-04-29,PVR Cinemas,1126.16,Entertainment
+2023-11-19,Bus to Bangalore,9256.42,Travel
+2023-05-20,Hotstar Annual Plan,5380.07,Subscription
+2023-03-29,PVR Cinemas,1443.84,Entertainment
+2023-03-03,Ola Cab,890.88,Transport
+2023-01-05,Metro Card Recharge,14729.8,Transport
+2023-08-06,Flipkart Electronics,4203.65,Shopping
+2023-02-23,Credit Card Bill Payment,8362.39,Credit Payment
+2023-03-15,Big Bazaar Groceries,11011.54,Groceries
+2023-10-12,Cult Pass,2719.41,Health
+2023-05-18,Dominos Pizza,3982.74,Food
+2023-01-20,Coursera Subscription,11620.7,Education
+2023-12-16,Yoga Class,2312.84,Health
+2023-10-11,Monthly Salary from Infosys,8357.8,Salary
+2023-05-07,Zomato Order,11731.65,Food
+2023-11-04,EMI Payment HDFC,984.33,Credit Payment
+2023-06-14,Udemy Course,10475.04,Education
+2023-10-06,Flight to Delhi,5994.87,Travel
+2023-06-14,Fuel Station HPCL,14159.18,Transport
+2023-11-07,Groww Investment,13123.92,Investment
+2023-01-04,Medplus Medicines,9222.96,Medical
+2023-05-05,Reliance Fresh,316.87,Groceries
+2023-01-04,Reliance Fresh,8990.39,Groceries
+2023-07-13,More Supermarket,3750.13,Groceries
+2023-07-24,Metro Card Recharge,4783.86,Transport
+2023-03-20,Metro Card Recharge,11815.5,Transport
+2023-09-15,Monthly Rent Payment,4818.69,Rent
+2023-02-23,Electricity Bill,10421.36,Utilities
+2023-11-07,Spotify Monthly Fee,12270.93,Subscription
+2023-06-17,Monthly Rent Payment,4682.5,Rent
