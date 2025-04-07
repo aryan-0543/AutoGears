@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head><title>Analysis Result</title></head>
+<body>
+<h2>Transaction Analysis</h2>
+{% for table in tables %}
+    {{ table|safe }}
+{% endfor %}
+
+<h3>Suggestions</h3>
+<ul>
+{% for suggestion in suggestions %}
+    <li>{{ suggestion }}</li>
+{% endfor %}
+</ul>
+
+<h3>Spending Charts</h3>
+<img src="data:image/png;base64,{{ charts.pie }}" width="300">
+<img src="data:image/png;base64,{{ charts.bar }}" width="400">
+
+<h3>Expense Forecast</h3>
+<table border="1">
+<tr><th>Month</th><th>Forecasted Expense (₹)</th></tr>
+{% for month, value in forecast.items() %}
+<tr><td>{{ month }}</td><td>{{ value }}</td></tr>
+{% endfor %}
+</table>
+</body>
+</html>
